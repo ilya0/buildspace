@@ -74,8 +74,8 @@
       ]
     },
     "/Users/bitbucket/code/buildspace/my-wave-portal/my-wave-portal/contracts/WavePortal.sol": {
-      "lastModificationDate": 1646098296640,
-      "contentHash": "42ca024df67ad538be2fae803dad40b0",
+      "lastModificationDate": 1646098809299,
+      "contentHash": "2b21d51ff5b80997184385709b5e56ae",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.4",
